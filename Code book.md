@@ -6,7 +6,9 @@ and the data sets were processed using the "Run_analysis.r"
 * The categorical columns
 subject						Code of the subject (integer, 1 to 30) 
 activity					Nature of activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-* All the following are averaged value from the original data set on the subject ID and the activity type. These are all reals 
+* All the following are averaged value from the original data set on the subject ID and the activity type. These are all reals
+
+ 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
